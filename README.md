@@ -1,12 +1,12 @@
 ### My page test
 
-##some formula
+##some formula - OK?
 
 $$
 s^2=\frac{S_{y y}-\hat{\beta}^2 S_{x x}}{n-2}
 $$
 
-##some more math
+##some more math - NOT OK
 $$
 |  | $H_(0)$ | H_(1) | Forkast H_(0) hvis |
 | :---: | :---: | :---: | :---: |
@@ -15,7 +15,7 @@ $$
 | Alternativ 3 | beta=beta_(0) | beta!=beta_(0) | |T| > t_(alpha//2) |
 $$
 
-##some python 
+##some python  - OK
 
 
 ```python 

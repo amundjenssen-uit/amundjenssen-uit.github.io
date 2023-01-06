@@ -8,7 +8,7 @@ $$
 
 ##some more math
 $$
-|  | H_(0) | H_(1) | Forkast H_(0) hvis |
+|  | $H_(0)$ | H_(1) | Forkast H_(0) hvis |
 | :---: | :---: | :---: | :---: |
 | Alternativ 1 | beta=beta_(0) | beta > beta_(0) | T > t_( alpha) |
 | Alternativ 2 | beta=beta_(0) | beta < beta_(0) | T < -t_( alpha) |
